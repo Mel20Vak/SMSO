@@ -1,8 +1,8 @@
-Smart Media Storage Optimizer (SMSO)
+**Smart Media Storage Optimizer (SMSO)**
 
 SMSO is an AI-enhanced tool that scans multiple storage drives to find duplicate media files, predict file usage patterns, and intelligently optimize where files are stored based on speed, space, and access frequency.
 
-Project Structure
+**Project Structure**
 
 SMSO/
 sms_optimizer.py
@@ -18,7 +18,7 @@ Plans file relocations to optimize speed and space
 Fault tolerant: handles inaccessible drives
 How to Run
 
-1. Clone the Repository
+**1. Clone the Repository**
 
 git clone
 cd SMSO
